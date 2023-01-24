@@ -1,0 +1,102 @@
+*
+{
+    margin:0px ;
+}
+#header
+{
+    height: 80px;
+    width: 100%;
+    
+}
+
+.logo {
+    height: 80px;
+    width: 20%;
+
+    float: left;
+    padding-bottom: 10px;
+   
+}
+
+.menu {
+    height: 80px;
+    width: 80%;
+
+    float: right;
+   
+
+}
+ul li
+{
+    float: left;
+    margin: 30px;
+    list-style: none;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-family: var(--bs-font-sans-serif);
+    
+}
+#mid {
+    height: 350px;
+    width: 100%;
+    margin-top: 70px;
+    background-image:url('C:/Users/HP/Downloads/pro.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+p
+{
+    font-size:16px;
+    font-family:Sans-seri;
+}
+
+
+.revealstop1{
+    position: relative;
+    transform: translateY(-150px);
+    opacity: 0;
+    transition: 1s all ease;
+  }
+  
+  .revealstop1.active{
+    transform: translateY(0);
+    opacity: 1;
+  }
+  
+  .revealsleft{
+    position: relative;
+    transform: translateX(-150px);
+    opacity: 0;
+    transition: 1s all ease;
+  }
+  
+  .revealsleft.active{
+    transform: translateX(0);
+    opacity: 1;
+  }
+  .revealsright{
+    position: relative;
+    transform: translateX(150px);
+    opacity: 0;
+    transition: 1s all ease;
+  }
+  
+  .revealsright.active{
+    transform: translateX(0);
+    opacity: 1;
+  }
+  .card1 {
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    border-radius: 10px;
+}
+.card11 {
+    height: 100px;
+    width: 200px;
+    background-color:rgb(238, 238, 238);
+    border-radius: 10px;
+}
