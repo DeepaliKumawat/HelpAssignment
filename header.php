@@ -108,10 +108,10 @@ crossorigin="anonymous"></script>
 
                <ul class="text-warning">
                 <li>
-                    Home
+                   <a href="index.php"> Home</a>
                 </li>
                 <li>
-                    Sample
+                   <a href="sample.php"> Sample</a>
                 </li>
                 <li>Course</li>
                 <li>How its works</li>
