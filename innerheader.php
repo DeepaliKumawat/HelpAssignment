@@ -108,16 +108,16 @@ crossorigin="anonymous"></script>
 
                <ul class="text-dark">
                 <li>
-                   <a href="index.php"> Home</a>
+                   <a href="index.php"> Profile</a>
                 </li>
                 <li>
-                   <a href="sample.php"> Sample</a>
+                   <a href="sample.php"> Wallet</a>
                 </li>
                
-                <li><a href="howitswork.php">How its works</a></li>
-                <li><a href="">Contact US</a></li>
-                <li>More</li>
-                <li><a href="guests.php">Work With Us</a></li>
+                <li><a href="howitswork.php">Membership</a></li>
+                <li><a href="">Refer & Earn</a></li>
+                <li>Premium</li>
+                <li><a href="guests.php">Logout</a></li>
                </ul>
             </div>
             
