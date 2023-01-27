@@ -106,18 +106,18 @@ crossorigin="anonymous"></script>
             </div>
             <div class="menu">
 
-               <ul class="text-warning">
+               <ul class="text-dark">
                 <li>
                    <a href="index.php"> Home</a>
                 </li>
                 <li>
                    <a href="sample.php"> Sample</a>
                 </li>
-                <li>Course</li>
+               
                 <li>How its works</li>
                 <li>Contact US</li>
                 <li>More</li>
-                <li>Login</li><div class="container"></div>
+                <li>Login</li>
                </ul>
             </div>
             
