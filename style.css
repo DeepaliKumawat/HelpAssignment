@@ -32,16 +32,18 @@ ul li
     margin: 30px;
     list-style: none;
     font-size: 1rem;
-    font-weight: 500;
+    font-weight: 300;
     line-height: 1.2;
-    font-family: var(--bs-font-sans-serif);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
     
 }
 #mid {
     height: 350px;
     width: 100%;
     margin-top: 70px;
-    background-image:url('C:/Users/HP/Downloads/pro.png');
+    background-image:url('assets/images/pro.png');
+    /*background-color: orange; */
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -50,7 +52,8 @@ ul li
 p
 {
     font-size:16px;
-    font-family:Sans-seri;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(94, 88, 88) !important;
 }
 
 
@@ -89,7 +92,7 @@ p
     opacity: 1;
   }
   .card1 {
-    height: 100px;
+    height:300px;
     width: 200px;
     background-color: white;
     border-radius: 10px;
@@ -99,4 +102,9 @@ p
     width: 200px;
     background-color:rgb(238, 238, 238);
     border-radius: 10px;
+}
+a
+{
+  text-decoration: none;
+  color: black;
 }
